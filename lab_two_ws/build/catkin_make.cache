@@ -1,2 +1,0 @@
-jackal_sim
--DCATKIN_DEVEL_PREFIX=/home/robotics/git_work/Drunken_Fox/lab_two_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robotics/git_work/Drunken_Fox/lab_two_ws/install -G Unix Makefiles
